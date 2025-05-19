@@ -1,0 +1,178 @@
+{
+    "akara": {
+        "ingredients": [
+            "black-eyed peas",
+            "onion",
+            "pepper",
+            "salt",
+            "oil"
+        ],
+        "ethnicity": "Southwest Nigeria (Yoruba)",
+        "nutrients": {
+            "calories": "200 kcal per 3 pieces",
+            "carbs": "15g",
+            "protein": "7g",
+            "fat": "10g"
+        },
+        "health_friendly": "High in protein and fiber; deep-fried, so moderate intake advised.",
+        "diet_type": "Vegan"
+    },
+    "banga_soup": {
+        "ingredients": [
+            "palm fruit extract",
+            "meat/fish",
+            "crayfish",
+            "spices",
+            "stock"
+        ],
+        "ethnicity": "South-South Nigeria (Urhobo/Delta)",
+        "nutrients": {
+            "calories": "400 kcal per serving",
+            "carbs": "8g",
+            "protein": "20g",
+            "fat": "35g"
+        },
+        "health_friendly": "Rich in flavor and fats; consume in moderation due to palm oil.",
+        "diet_type": "Non-vegan"
+    },
+    "egusi_soup": {
+        "ingredients": [
+            "melon seeds",
+            "leafy greens",
+            "palm oil",
+            "meat/fish",
+            "crayfish"
+        ],
+        "ethnicity": "Widely eaten across Nigeria",
+        "nutrients": {
+            "calories": "450 kcal per serving",
+            "carbs": "10g",
+            "protein": "18g",
+            "fat": "40g"
+        },
+        "health_friendly": "Protein-rich; high fat from melon seeds and palm oil.",
+        "diet_type": "Non-vegan"
+    },
+    "jollof_rice": {
+        "ingredients": [
+            "rice",
+            "tomato",
+            "pepper",
+            "onion",
+            "oil",
+            "spices"
+        ],
+        "ethnicity": "West African (Nigeria, Ghana)",
+        "nutrients": {
+            "calories": "350 kcal per cup",
+            "carbs": "45g",
+            "protein": "6g",
+            "fat": "15g"
+        },
+        "health_friendly": "High in carbs and oil; add veggies for balance.",
+        "diet_type": "Vegan/Non-vegan (depends on additions like meat)"
+    },
+    "moi_moi": {
+        "ingredients": [
+            "beans",
+            "onion",
+            "pepper",
+            "oil",
+            "egg/fish (optional)"
+        ],
+        "ethnicity": "Southwest Nigeria (Yoruba)",
+        "nutrients": {
+            "calories": "300 kcal per wrap",
+            "carbs": "20g",
+            "protein": "12g",
+            "fat": "18g"
+        },
+        "health_friendly": "Protein-rich and healthy if steamed; good for weight management.",
+        "diet_type": "Vegan/Non-vegan"
+    },
+    "nkwobi": {
+        "ingredients": [
+            "cow foot",
+            "palm oil",
+            "potash",
+            "pepper",
+            "seasoning"
+        ],
+        "ethnicity": "Southeast Nigeria (Igbo)",
+        "nutrients": {
+            "calories": "450 kcal per serving",
+            "carbs": "5g",
+            "protein": "22g",
+            "fat": "35g"
+        },
+        "health_friendly": "High in collagen and fat; best as occasional treat.",
+        "diet_type": "Non-vegan"
+    },
+    "okpa": {
+        "ingredients": [
+            "Bambara nut flour",
+            "oil",
+            "pepper",
+            "seasoning"
+        ],
+        "ethnicity": "Southeast Nigeria (Enugu/Igbo)",
+        "nutrients": {
+            "calories": "250 kcal per wrap",
+            "carbs": "30g",
+            "protein": "10g",
+            "fat": "10g"
+        },
+        "health_friendly": "Very nutritious and filling; good source of plant protein.",
+        "diet_type": "Vegan"
+    },
+    "suya": {
+        "ingredients": [
+            "beef",
+            "peanut spice mix (yaji)",
+            "oil",
+            "onion"
+        ],
+        "ethnicity": "Northern Nigeria (Hausa)",
+        "nutrients": {
+            "calories": "300 kcal per stick",
+            "carbs": "2g",
+            "protein": "25g",
+            "fat": "20g"
+        },
+        "health_friendly": "High in protein; spicy and grilled \u2014 healthier than fried meats.",
+        "diet_type": "Non-vegan"
+    },
+    "tuwo": {
+        "ingredients": [
+            "rice flour or maize",
+            "water"
+        ],
+        "ethnicity": "Northern Nigeria (Hausa)",
+        "nutrients": {
+            "calories": "250 kcal per ball",
+            "carbs": "50g",
+            "protein": "3g",
+            "fat": "1g"
+        },
+        "health_friendly": "Good for gluten-free diets; best when paired with protein-rich soups.",
+        "diet_type": "Vegan"
+    },
+    "yam_porridge": {
+        "ingredients": [
+            "yam",
+            "palm oil",
+            "pepper",
+            "onion",
+            "leafy greens"
+        ],
+        "ethnicity": "Widespread in Nigeria",
+        "nutrients": {
+            "calories": "350 kcal per serving",
+            "carbs": "40g",
+            "protein": "5g",
+            "fat": "18g"
+        },
+        "health_friendly": "Rich in carbs and vitamins; palm oil makes it calorie-dense.",
+        "diet_type": "Vegan/Non-vegan"
+    }
+}
